@@ -219,7 +219,7 @@ Carmen = human_data(name = random.choice(name), gender = random.choice(gender), 
 
 
 
-data = human_data(name=random.shuffle, gender=random.shuffle, age=random.shuffle, state=random.shuffle, account_balance=random.shuffle)
+#data = human_data(name=random.shuffle, gender=random.shuffle, age=random.shuffle, state=random.shuffle, account_balance=random.shuffle)
 
 
 print(Hu.name, Hu.gender, Hu.age, Hu.state, Hu.account_balance)
