@@ -1,0 +1,111 @@
+for name in names_list:
+     name.split(" ' ")
+    #name2 = name.split(" Female ")
+    #name1_list = []
+    print(name1)
+
+
+
+account_balance1 = [60672, 141186,  43783,  58940, 145279,  44012, 104968, 137770,  92175, 127007,  19360, 140173,  45729,  44644,  86793, 135121, 126298, 131831,  47335,  98915, 125707,  78197,  52719,  80207, 118783, 121661,  86251,  74374,  29683,  83515, 109823, 139515,  39745,  72436, 133825,  50611,  73827, 102668,  45501,  23625, 119861,  21288, 117099, 122686,  19600,  34601,  27711,  36032, 110593,  69942]
+
+state1 = [ "Lagos",
+   "Ondo",
+    "Oyo",
+ "Borno ",
+"Anambra",
+"Anambra ",
+"Kaduna ",
+  "Lagos",
+"Anambra ",
+    "Oyo",
+"Ebonyi ",
+   "Abia",
+  "Lagos",
+  "Borno",
+   "Oyo ",
+"Eakiti ",
+"baonyi ",
+"Bayelsa",
+ "Ebonyi",
+ "Ekiti ",
+ "Rivers",
+   "Kogi",
+"Anambra",
+   "Oyo ",
+  "Kogi ",
+"Bayelsa",
+"Anambra",
+   "Ondo",
+   "Abia",
+ "Ekiti ",
+"Anambra ",
+  "Ekiti",
+   "Abia",
+  "Kogi ",
+  "Lagos",
+ "Ebonyi",
+"Anambra ",
+   "kogi",
+   "Abia",
+ "Borno ",
+   "Kogi",
+  "Kogi ",
+  "Ondo ",
+  "Lagos",
+ "Ebonyi",
+  "Ekiti",
+   "Abia",
+ "Lagos ",
+  "Ekiti",
+
+]
+
+name_12 = ["Ed Smith", "Guadalupe Cobb", "Verna Holland", "Saul Joseph", "Heidi Newton", "Silvia Morris", "Rafael Harrington",
+"Suzanne Fields", "Della Vargas", "John Baldwin", "Tyler Stone", "Salvador Wolfe", "Deborah Dunn", "Sabrina Reynolds", "Paula Reed",
+"Jacqueline Gonzal",
+"Paula Reed",
+"Eduardo Lawson",
+"Jay Rivera",
+"Mario Dixon",
+"Elsie Weaver",
+"Roberto Simon",
+"Alison Santos",
+"Della Vargas",
+"Doug Haynes",
+"Samuel Drake",
+"Jimmy Greene",
+"Carlos Oliver",
+"Rene Wilkerson",
+"Alison Santos",
+"Dale Hanson",
+"Alison Santos",
+"Clark Gross",
+"Willie Carroll",
+"Doug Haynes",
+"Wayne Ortega",
+"Enrique Rhodes",
+"Allison Davis",
+"Donald Meyer",
+"Misty Peterson",
+"Samuel Drake",
+"Dale Hanson",
+"Rafael Harrington",
+"Allen Ortiz",
+"Sara Lamb",
+"Allison Davis",
+"Dianne Clark",
+"Laverne Love",
+"Bridget Stevenson",
+"Willie Carroll",
+]
+
+gender = ["Female", "Female", "male  ", "male  ", "Female", "male  ", "Female", "Female", "male  ", "Female", "male  ", "Female", "Female",
+"Female", "male  ", "Female", "male  ", "male  ", "Female", "male  ", "Female", "Female", "Female", "Female", "male  ", "Female", "male  ",
+"Female", "Female", "male  ", "Female", "male  ", "Female", "male  ", "Female", "Female", "male", "male", "male", "Female", "Female",
+"male", "Female", "Female", "Female", "Female", "Female", "male", "male "]
+
+
+
+
+age = [23, 34, 44, 33, 25, 23, 41, 21, 19, 47, 49, 22, 30, 43, 46, 46, 30, 45, 18, 20, 44, 47,28, 27, 40, 20, 40, 31, 29,24,
+28, 33, 40, 27, 30, 46, 31, 27, 46, 24, 31, 41, 43, 22, 44, 19, 36, 27]

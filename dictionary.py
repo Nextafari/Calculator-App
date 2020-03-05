@@ -10,3 +10,13 @@ dictionary_app = {
 }
 
 print(dictionary_app["Father"])
+
+
+
+
+
+
+
+
+
+
